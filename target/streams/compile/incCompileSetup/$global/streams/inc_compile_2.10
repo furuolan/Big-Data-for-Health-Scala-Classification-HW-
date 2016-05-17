@@ -1,0 +1,804 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+42 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\Metrics$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\Metrics.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$1.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$2.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$3$$anonfun$apply$1.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$3.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$4.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$run$1.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$run$2.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\package$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\package.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\features\FeatureConstruction$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\features\FeatureConstruction.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\ioutils\CSVUtils$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\ioutils\CSVUtils.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$1.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$10.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$11.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$12.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$13.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$14.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$2.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$3.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$4$$anonfun$apply$1.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$4.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$5.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$6.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$7.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$8.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$9.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Diagnostic$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Diagnostic.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\LabResult$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\LabResult.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Medication$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Medication.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\phenotyping\T2dmPhenotype$.class
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\phenotyping\T2dmPhenotype.class
+binary dependencies:
+33 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> C:\Users\linhe_000\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.2.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> C:\Users\linhe_000\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.2.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> C:\Users\linhe_000\.ivy2\cache\com.databricks\spark-csv_2.10\jars\spark-csv_2.10-1.3.0.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.2.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> C:\Program Files\Java\jre1.8.0_73\lib\rt.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+9 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+42 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> edu.gatech.cse8803.clustering.Metrics
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> edu.gatech.cse8803.clustering.Metrics$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$3$$anonfun$apply$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$run$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu.gatech.cse8803.clustering.NMF$$anonfun$run$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> edu.gatech.cse8803.clustering.package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> edu.gatech.cse8803.clustering.package$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> edu.gatech.cse8803.features.FeatureConstruction
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> edu.gatech.cse8803.features.FeatureConstruction$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> edu.gatech.cse8803.ioutils.CSVUtils
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> edu.gatech.cse8803.ioutils.CSVUtils$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$10
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$11
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$12
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$13
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$14
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$4$$anonfun$apply$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$5
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$6
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$7
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$8
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu.gatech.cse8803.main.Main$$anonfun$9
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu.gatech.cse8803.model.Diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu.gatech.cse8803.model.Diagnostic$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu.gatech.cse8803.model.LabResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu.gatech.cse8803.model.LabResult$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu.gatech.cse8803.model.Medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu.gatech.cse8803.model.Medication$
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> edu.gatech.cse8803.phenotyping.T2dmPhenotype
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> edu.gatech.cse8803.phenotyping.T2dmPhenotype$
+used names:
+516 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> Int
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> Metrics
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> RDD
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> SparkContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> Tuple2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> clustering
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> rdd
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> +
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> :*
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> :/
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> BDM
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> BDV
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> ClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> DenseMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> DenseVector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> DoubleZero
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Int
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> NMF
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> RowMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Tuple2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> V
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Vector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Vectors
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> X
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Y
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> Zero
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> _1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> _2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> apply
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> breeze
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> cache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> canMapValues
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> clustering
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> distributed
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> fromBreeze
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> k
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> linalg
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> map
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> mapValues
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> materializeClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> mllib
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> ne
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> numCols
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> numerics
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> rand
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> rows
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> storage
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> sum
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> toBreezeVector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> toInt
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> v1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> v2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> v_v_Op_Double_OpDiv
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> v_v_nilpotent_Op_Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> zip
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> &&
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> +
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> ==
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> BDM
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> BDV
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> BM
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> BSM
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> BSV
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> BV
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> CSCMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> ClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> DenseMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> DenseVector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> DoubleZero
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Matrices
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Matrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Predef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> SparseMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> SparseVector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> StringContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> UnsupportedOperationException
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Vector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Vectors
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> Zero
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> asInstanceOf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> breeze
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> breezeVector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> clustering
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> colPtrs
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> cols
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> data
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> doubleArrayOps
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> error
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> getClass
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> getName
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> index
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> indices
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> intArrayOps
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> isInstanceOf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> length
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> linalg
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> m
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> materializeClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> mllib
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> ne
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> numCols
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> numRows
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> offset
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> rowIndices
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> rows
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> s
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> size
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> slice
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> storage
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> stride
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> sys
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> toArray
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> used
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> v
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> values
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> ClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> FeatureConstruction
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> FeatureTuple
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> LabResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> List
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Predef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> RDD
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Seq
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Set
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> SparkContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> String
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Tuple2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Vector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> Vectors
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> apply
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> cache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> collection
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> dense
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> feature
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> features
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> immutable
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> labResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> linalg
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> materializeClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> mllib
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> model
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> parallelize
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> qual$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> qual$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> qual$3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> qual$4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> qual$5
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> qual$6
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> rdd
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> result
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> sc
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> sparkContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$10
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$11
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$12
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$5
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$6
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$7
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$8
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> x$9
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> !=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> &&
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> ==
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> CSVUtils
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> CsvContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> Predef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> SQLContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> SchemaRDD
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> String
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> apply
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> augmentString
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> com
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> csv
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> csvFile
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> data
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> databricks
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> filename
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> get
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> inferTableNameFromPath
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> ioutils
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> isEmpty
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> lengthCompare
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> loadCSVAsTable
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> path
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> pattern
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> qual$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> r
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> registerTempTable
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> sql
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> sqlContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> tableName
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> unanchored
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> unapplySeq
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> unary_!
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$10
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$11
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$12
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$5
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$6
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$7
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$8
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> x$9
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Array
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> CSVUtils
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> ClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Codec
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> DenseMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> FeatureConstruction
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> GaussianMixture
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Int
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> KMeans
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> LabResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Level
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Logger
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Long
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Main
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Matrices
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Matrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Metrics
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> NMF
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Ordering
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Predef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> RDD
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> RDDrowdiag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> RDDrowlab
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> RDDrowmed
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> RowMatrix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> SQLContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Set
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> SimpleDateFormat
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Source
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> SparkConf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> SparkContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> StandardScaler
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> String
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> StringContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> T2dmPhenotype
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Tuple2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Tuple3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Unit
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Vector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> Vectors
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> WARN
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> _1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> _2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> _3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> appName
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> apply
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> arg$1
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> arg$2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> arg$3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> arg$4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> arg$5
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> arg$6
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> asInstanceOf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> assignments
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> augmentString
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> cache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> canBuildFrom
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> candidateDiagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> candidateLab
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> candidateMedication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> clustering
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> computePrincipalComponents
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> conf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> construct
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> constructDiagnosticFeatureTuple
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> constructLabFeatureTuple
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> constructMedicationFeatureTuple
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> createContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> dateFormat
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> dense
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> densePc
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> distributed
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> doubleArrayOps
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> f
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> fallbackSystemCodec
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> feature
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> featureTuples
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> featureVector
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> features
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> filteredFeatureTuples
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> filteredRawFeatures
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> fit
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> format
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> fromFile
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> gaussianMixturePurity
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> gaussianMixturePurity2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> getLines
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> getLogger
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> io
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> ioutils
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> java
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> join
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> kMeansPurity
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> kMeansPurity2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> labResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> labels
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> linalg
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> loadCSVAsTable
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> loadLocalRawData
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> loadRddRawData
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> log4j
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> main
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> map
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> masterUrl
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> mat
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> materializeClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> math
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> maxBy
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> mllib
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> model
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> multiply
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> ne
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> nmfClusterAssignmentAndLabel
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> nmfPurity
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> nmfPurity2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> numCols
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> numRows
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> p
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> parse
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> patientID
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> pc
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> phenotypeLabel
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> phenotyping
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> println
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> purity
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> rawFeatureVectors
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> rawFeatures
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> rdd
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> rddToPairRDDFunctions
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> realClass
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> refArrayOps
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> rows
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> run
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> sc
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> scaled
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> scaler
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> setAppName
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> setLevel
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> setMaster
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> size
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> sql
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> sqlContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> swap
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> testClustering
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> text
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> toArray
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> toDouble
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> toLowerCase
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> toSet
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> transform
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> unchecked
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> union
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> w
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> zipWithIndex
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> &&
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> ==
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> AbstractFunction3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> AbstractFunction4
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Date
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Double
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> LabResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> None
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Predef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Product
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> ScalaRunTime
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Serializable
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> Statics
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> String
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> _hashCode
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> _toString
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> anyHash
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> asInstanceOf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> code
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> date
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> doubleHash
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> eq
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> finalizeHash
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> isInstanceOf
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> java
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> medicine
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> mix
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> model
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> patientID
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> runtime
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> testName
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> toString
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> typedProductIterator
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> util
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> value
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> ||
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> <init>
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> AnyRef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> ClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Diagnostic
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Int
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> LabResult
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Predef
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> RDD
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Seq
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Set
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> String
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> T2dmPhenotype
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> Tuple2
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> apache
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> apply
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> casePatients
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> collection
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> controlPatients
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> cse8803
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> edu
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> gatech
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> materializeClassTag
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> medication
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> model
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> org
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> others
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> package
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> parallelize
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> phenotypeLabel
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> phenotyping
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> rdd
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> sc
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> scala
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> spark
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> sparkContext
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> union
+product stamps:
+42 items
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\Metrics$.class -> lastModified(1456159546737)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\Metrics.class -> lastModified(1456159546704)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$1.class -> lastModified(1456159546795)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$2.class -> lastModified(1456159546801)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$3$$anonfun$apply$1.class -> lastModified(1456159546814)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$3.class -> lastModified(1456159546808)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$4.class -> lastModified(1456159546818)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$run$1.class -> lastModified(1456159546826)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$$anonfun$run$2.class -> lastModified(1456159546832)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF$.class -> lastModified(1456159546775)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\NMF.class -> lastModified(1456159546748)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\package$.class -> lastModified(1456159546854)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\clustering\package.class -> lastModified(1456159546836)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\features\FeatureConstruction$.class -> lastModified(1456159546882)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\features\FeatureConstruction.class -> lastModified(1456159546863)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\ioutils\CSVUtils$.class -> lastModified(1456159546895)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\ioutils\CSVUtils.class -> lastModified(1456159546885)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$1.class -> lastModified(1456168874298)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$10.class -> lastModified(1456168874309)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$11.class -> lastModified(1456168874318)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$12.class -> lastModified(1456168874327)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$13.class -> lastModified(1456168874334)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$14.class -> lastModified(1456168874341)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$2.class -> lastModified(1456168874352)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$3.class -> lastModified(1456168874358)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$4$$anonfun$apply$1.class -> lastModified(1456168874372)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$4.class -> lastModified(1456168874365)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$5.class -> lastModified(1456168874379)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$6.class -> lastModified(1456168874386)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$7.class -> lastModified(1456168874392)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$8.class -> lastModified(1456168874398)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$$anonfun$9.class -> lastModified(1456168874403)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main$.class -> lastModified(1456168874280)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\main\Main.class -> lastModified(1456168874169)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Diagnostic$.class -> lastModified(1456159547024)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Diagnostic.class -> lastModified(1456159547045)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\LabResult$.class -> lastModified(1456159547051)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\LabResult.class -> lastModified(1456159547069)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Medication$.class -> lastModified(1456159547076)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\model\Medication.class -> lastModified(1456159547093)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\phenotyping\T2dmPhenotype$.class -> lastModified(1456168874420)
+E:\Git\bigdata-bootcamp\hw3\code\target\scala-2.10\classes\edu\gatech\cse8803\phenotyping\T2dmPhenotype.class -> lastModified(1456168874409)
+source stamps:
+8 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> hash(b720698c39c30f14ff38e64b0fa07cb62d1b33b9)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> hash(d1476cd25ee816058bc8272a387b3b3a6eebf28f)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> hash(e959763eeaad7410b3e7aa4d7c9746bae2d82eb4)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> hash(f55bf9045c6706a5c0bb1121069fe8c0768763fe)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> hash(f9ba14516bdb104a50a779d6fe96d85799d74bf7)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> hash(6b42b9857e51db5c2fd6a08b82704cc2d6c329c1)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> hash(4104add02aecc262276f72b7ebb71a8017a2db1a)
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> hash(f2d12d409f7b7aacf8399c70a1c3f94d26581ae4)
+binary stamps:
+9 items
+C:\Program Files\Java\jre1.8.0_73\lib\rt.jar -> lastModified(1456103278333)
+C:\Users\linhe_000\.ivy2\cache\com.databricks\spark-csv_2.10\jars\spark-csv_2.10-1.3.0.jar -> lastModified(1448053056000)
+C:\Users\linhe_000\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> lastModified(1338025419000)
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-1.3.1.jar -> lastModified(1428727635000)
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar -> lastModified(1428727559000)
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar -> lastModified(1428727567000)
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.3.1.jar -> lastModified(1428727565000)
+C:\Users\linhe_000\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.2.jar -> lastModified(1427390173000)
+C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> lastModified(1425002069000)
+class names:
+9 items
+C:\Program Files\Java\jre1.8.0_73\lib\rt.jar -> java.lang.Object
+C:\Users\linhe_000\.ivy2\cache\com.databricks\spark-csv_2.10\jars\spark-csv_2.10-1.3.0.jar -> com.databricks.spark.csv.package$
+C:\Users\linhe_000\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> org.apache.log4j.Logger
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-catalyst_2.10\jars\spark-catalyst_2.10-1.3.1.jar -> org.apache.spark.sql.Row
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.3.1.jar -> org.apache.spark.rdd.RDD$
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.3.1.jar -> org.apache.spark.mllib.linalg.Matrices$
+C:\Users\linhe_000\.ivy2\cache\org.apache.spark\spark-sql_2.10\jars\spark-sql_2.10-1.3.1.jar -> org.apache.spark.sql.SQLContext
+C:\Users\linhe_000\.ivy2\cache\org.scalanlp\breeze_2.10\jars\breeze_2.10-0.11.2.jar -> breeze.linalg.DenseMatrix
+C:\Users\linhe_000\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> scala.reflect.package$
+internal apis:
+8 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+npltAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNDavqB0AAZub3RpZnlzcQB+AAw86STtdAAGcHVyaXR5c3EAfgAMLhHdhXQABHdhaXRzcQB+AAzowsONdAANJGFzSW5zdGFuY2VPZnNxAH4ADH/caPl0AAZlcXVhbHNzcQB+AAyQVxJxdAAMYXNJbnN0YW5jZU9mc3EAfgAMNTzYFnQADHN5bmNocm9uaXplZHNxAH4ADHxg3od0AA0kaXNJbnN0YW5jZU9mc3EAfgAMrIpzWnQAB01ldHJpY3NzcQB+AAw4Iuo9dAAJbm90aWZ5QWxsc3EAfgAMLptxG3QADGlzSW5zdGFuY2VPZnNxAH4ADIR9/kh0AAI9PXNxAH4ADHt6Jw90AAVjbG9uZXNxAH4ADK6VFx10AAh0b1N0cmluZ3NxAH4ADJc5nFF0AAIhPXNxAH4ADAR4vsB0AAhnZXRDbGFzc3NxAH4ADKucWqx0AAJuZXNxAH4ADCOvWrB0AAJlcXNxAH4ADHvYN4x0AAIjI3NxAH4ADN1/HZl0AAhmaW5hbGl6ZXNxAH4ADDPZkFl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACVlZHUuZ2F0ZWNoLmNzZTg4MDMuY2x1c3RlcmluZy5NZXRyaWNzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AB1lZHUuZ2F0ZWNoLmNzZTg4MDMuY2x1c3RlcmluZ3NxAH4Aj3QAA2VkdXNxAH4Aj3QAEmVkdS5nYXRlY2guY3NlODgwM3NxAH4Aj3QACmVkdS5nYXRlY2hzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVMJ3xm7dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOkU6XEdpdFxiaWdkYXRhLWJvb3RjYW1wXGh3M1xjb2RlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS3IGmMOcMPFP845ksPoHy2LRszuQ==
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBJitVzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKf+sip0AAZub3RpZnlzcQB+AAx29AIDdAAKY29tcHV0ZVdUVnNxAH4ADLT0gFV0AAR3YWl0c3EAfgAMpEaty3QADSRhc0luc3RhbmNlT2ZzcQB+AAwl93mxdAAGZXF1YWxzc3EAfgAMsOqRBnQAA05NRnNxAH4ADLUjL5N0AAxhc0luc3RhbmNlT2ZzcQB+AAzOyCkJdAADcnVuc3EAfgAMZ1qXlnQADmdldERlbnNlTWF0cml4c3EAfgAMdSV1M3QADHN5bmNocm9uaXplZHNxAH4ADFsMnst0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5uVahnQACW5vdGlmeUFsbHNxAH4ADDPHYrZ0AAxpc0luc3RhbmNlT2ZzcQB+AAyRE5m1dAACPT1zcQB+AAwsSe1ZdAAFY2xvbmVzcQB+AAy0LTTydAAIbXVsdGlwbHlzcQB+AAxPejbgdAANcnVuJGRlZmF1bHQkNHNxAH4ADFVUJCN0AAh0b1N0cmluZ3NxAH4ADCuZ7OF0AAdkb3RQcm9kc3EAfgAMfqQcuXQAAiE9c3EAfgAM6yF1W3QABmRvdERpdnNxAH4ADBjNwSx0AAhnZXRDbGFzc3NxAH4ADGVi38J0AAJuZXNxAH4ADC8vQfV0AAJlcXNxAH4ADFFc/qd0AAIjI3NxAH4ADEkatOh0AAhmaW5hbGl6ZXNxAH4ADF5MzBx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACFlZHUuZ2F0ZWNoLmNzZTg4MDMuY2x1c3RlcmluZy5OTUZ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBmeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBlAHBzcQB+AGpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBuc3EAfgBlAHBzcQB+AGp1cQB+AEgAAAAAc3EAfgBlAHBzcQB+AGp1cQB+AEgAAAAAc3EAfgBlAHBzcQB+AGp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AItzcQB+AH50AANBbnlzcQB+AIJzcQB+AIV1cQB+AIgAAAACc3EAfgCKdAAFc2NhbGFxAH4AkXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAHWVkdS5nYXRlY2guY3NlODgwMy5jbHVzdGVyaW5nc3EAfgCbdAADZWR1c3EAfgCbdAASZWR1LmdhdGVjaC5jc2U4ODAzc3EAfgCbdAAKZWR1LmdhdGVjaHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwnfGbt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6RTpcR2l0XGJpZ2RhdGEtYm9vdGNhbXBcaHczXGNvZGVcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNFHbNJe6BYFi8gnKjh7Ozpu6/KP
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSGj9OAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG/1rAl0AAZub3RpZnlzcQB+AAyl3QGOdAAHcGFja2FnZXNxAH4ADP/DljJ0AAR3YWl0c3EAfgAMpIvanXQADSRhc0luc3RhbmNlT2ZzcQB+AAxq/KO1dAAGZXF1YWxzc3EAfgAMS2uwvXQADGFzSW5zdGFuY2VPZnNxAH4ADLQwpm90AAxzeW5jaHJvbml6ZWRzcQB+AAz3kh3idAANJGlzSW5zdGFuY2VPZnNxAH4ADBgoMtB0AAlub3RpZnlBbGxzcQB+AAzjvD3NdAAMaXNJbnN0YW5jZU9mc3EAfgAMFfScdHQAAj09c3EAfgAM82q5mXQABWNsb25lc3EAfgAMomL423QACHRvU3RyaW5nc3EAfgAMdEds2XQACmZyb21CcmVlemVzcQB+AAyUfu5odAACIT1zcQB+AAxzGr5EdAAIZ2V0Q2xhc3NzcQB+AAwdEOaFdAACbmVzcQB+AAxdO4SbdAAOdG9CcmVlemVNYXRyaXhzcQB+AAzPVQiodAAOdG9CcmVlemVWZWN0b3JzcQB+AAxhpBHWdAACZXFzcQB+AAwtss+pdAACIyNzcQB+AAxNgxXldAAIZmluYWxpemVzcQB+AAwEfTRRdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlZWR1LmdhdGVjaC5jc2U4ODAzLmNsdXN0ZXJpbmcucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AF54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF0AcHNxAH4AYnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGZzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAABzcQB+AF0AcHNxAH4AYnVxAH4AQAAAAABzcQB+AF0AcHNxAH4AYnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AgnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ag3NxAH4AdnQAA0FueXNxAH4AenNxAH4AfXVxAH4AgAAAAAJzcQB+AIJ0AAVzY2FsYXEAfgCJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAdZWR1LmdhdGVjaC5jc2U4ODAzLmNsdXN0ZXJpbmdzcQB+AJN0AANlZHVzcQB+AJN0ABJlZHUuZ2F0ZWNoLmNzZTg4MDNzcQB+AJN0AAplZHUuZ2F0ZWNoc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTCd8Zu3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADpFOlxHaXRcYmlnZGF0YS1ib290Y2FtcFxodzNcY29kZVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6Vl2PuqtdBCz56pNfJdGuuLYLrQ=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAoJw4VAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMnJpcx0AAZub3RpZnlzcQB+AAw4iPCLdAAEd2FpdHNxAH4ADABji3B0AA0kYXNJbnN0YW5jZU9mc3EAfgAMlti9uXQABmVxdWFsc3NxAH4ADM6JlVl0AB9jb25zdHJ1Y3REaWFnbm9zdGljRmVhdHVyZVR1cGxlc3EAfgAMfB7Zv3QAH2NvbnN0cnVjdE1lZGljYXRpb25GZWF0dXJlVHVwbGVzcQB+AAziMKLJdAAMYXNJbnN0YW5jZU9mc3EAfgAMXzOXi3QADHN5bmNocm9uaXplZHNxAH4ADDm9u7l0AA0kaXNJbnN0YW5jZU9mc3EAfgAMwU6QTHQACW5vdGlmeUFsbHNxAH4ADOyteRx0AAxpc0luc3RhbmNlT2ZzcQB+AAzS3K3MdAATRmVhdHVyZUNvbnN0cnVjdGlvbnNxAH4ADH1K4490AAI9PXNxAH4ADNAOdDZ0AAVjbG9uZXNxAH4ADJ8jWqV0AAh0b1N0cmluZ3NxAH4ADOHyDod0AAIhPXNxAH4ADDlyw3t0AAhnZXRDbGFzc3NxAH4ADPB3GNN0ABhjb25zdHJ1Y3RMYWJGZWF0dXJlVHVwbGVzcQB+AAwN57DhdAACbmVzcQB+AAwF13DKdAAJY29uc3RydWN0c3EAfgAMbg/NAXQADEZlYXR1cmVUdXBsZXNxAH4ADKTaUat0AAJlcXNxAH4ADM6BZMp0AAIjI3NxAH4ADHTLSlB0AAhmaW5hbGl6ZXNxAH4ADCdH1CB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AC9lZHUuZ2F0ZWNoLmNzZTg4MDMuZmVhdHVyZXMuRmVhdHVyZUNvbnN0cnVjdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGEAcHNxAH4AZnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGpzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVxAH4ARAAAAABzcQB+AGEAcHNxAH4AZnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3NxAH4AenQAA0FueXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AAVzY2FsYXEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAADZWR1c3EAfgCXdAASZWR1LmdhdGVjaC5jc2U4ODAzc3EAfgCXdAAbZWR1LmdhdGVjaC5jc2U4ODAzLmZlYXR1cmVzc3EAfgCXdAAKZWR1LmdhdGVjaHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwnfGbt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6RTpcR2l0XGJpZ2RhdGEtYm9vdGNhbXBcaHczXGNvZGVcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPVb+QRcZwalwLsRIQaf6MB2h2P+
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBa+3C9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAF3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNeWsuJ0AAZub3RpZnlzcQB+AAxywUnddAAEd2FpdHNxAH4ADDmLjWd0AA0kYXNJbnN0YW5jZU9mc3EAfgAM5+wlbnQAB3BhdHRlcm5zcQB+AAwqnsB7dAAGZXF1YWxzc3EAfgAMmszjYXQADGFzSW5zdGFuY2VPZnNxAH4ADOvawOl0AAxzeW5jaHJvbml6ZWRzcQB+AAwtHPw6dAANJGlzSW5zdGFuY2VPZnNxAH4ADO1CglN0AAhDU1ZVdGlsc3NxAH4ADOtjcax0AAlub3RpZnlBbGxzcQB+AAwdM7AcdAAMaXNJbnN0YW5jZU9mc3EAfgAM8ou8rnQAAj09c3EAfgAMBHs1uHQABWNsb25lc3EAfgAM0767gHQACHRvU3RyaW5nc3EAfgAMY2EVSnQAAiE9c3EAfgAMzwoKq3QADmxvYWRDU1ZBc1RhYmxlc3EAfgAMUwTF6XQACGdldENsYXNzc3EAfgAM0aUeqnQAAm5lc3EAfgAM44wd2XQAFmluZmVyVGFibGVOYW1lRnJvbVBhdGhzcQB+AAznj7fPdAACZXFzcQB+AAzDY5uXdAACIyNzcQB+AAzGl0nldAAIZmluYWxpemVzcQB+AAz3jPjydAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAjZWR1LmdhdGVjaC5jc2U4ODAzLmlvdXRpbHMuQ1NWVXRpbHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBeeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdAHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBmc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cQB+AEAAAAAAc3EAfgBdAHBzcQB+AGJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AINzcQB+AHZ0AANBbnlzcQB+AHpzcQB+AH11cQB+AIAAAAACc3EAfgCCdAAFc2NhbGFxAH4AiXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGmVkdS5nYXRlY2guY3NlODgwMy5pb3V0aWxzc3EAfgCTdAADZWR1c3EAfgCTdAASZWR1LmdhdGVjaC5jc2U4ODAzc3EAfgCTdAAKZWR1LmdhdGVjaHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwnfGbt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6RTpcR2l0XGJpZ2RhdGEtYm9vdGNhbXBcaHczXGNvZGVcdGFyZ2V0XHNjYWxhLTIuMTBcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPm6FFFr2xBKUKd51v6W2FeZ10v3
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCWLL29AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAJFWJZ0AAZub3RpZnlzcQB+AAwbOIMSdAAEd2FpdHNxAH4ADKG4bjF0AA0kYXNJbnN0YW5jZU9mc3EAfgAM3UJ9VHQABmVxdWFsc3NxAH4ADJjwllV0AAxhc0luc3RhbmNlT2ZzcQB+AAxGByvvdAAObG9hZFJkZFJhd0RhdGFzcQB+AAzVKXQXdAAMc3luY2hyb25pemVkc3EAfgAMrHvAgXQADSRpc0luc3RhbmNlT2ZzcQB+AAyTpeN5dAAEbWFpbnNxAH4ADGWZsrp0AAlub3RpZnlBbGxzcQB+AAxvPAD9dAAMaXNJbnN0YW5jZU9mc3EAfgAMtIovXHQADnRlc3RDbHVzdGVyaW5nc3EAfgAMuvZQSXQAEGxvYWRMb2NhbFJhd0RhdGFzcQB+AAzXmGS8dAACPT1zcQB+AAz7RrrTdAAFY2xvbmVzcQB+AAwJFF22dAAETWFpbnNxAH4ADOLKE5d0AAh0b1N0cmluZ3NxAH4ADIXRU+l0AAIhPXNxAH4ADAa2PGl0AAhnZXRDbGFzc3NxAH4ADKEmyu90AAJuZXNxAH4ADPkhGxl0AA1jcmVhdGVDb250ZXh0c3EAfgAMImsMGnQAAmVxc3EAfgAMBaAmhHQAAiMjc3EAfgAMprxXpXQACGZpbmFsaXplc3EAfgAM/921D3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHGVkdS5nYXRlY2guY3NlODgwMy5tYWluLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGEBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AYQF1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAABzcQB+AFYAcQB+AB91cQB+AFkAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB3WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB2dAAFQXJyYXlxAH4AfHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB2dAAGU3RyaW5nc3EAfgB6c3EAfgB9dXEAfgCAAAAAA3NxAH4AgnQABGphdmFzcQB+AIJ0AARsYW5ncQB+AIdwc3EAfgBhAXVxAH4ARAAAAABwc3EAfgBhAXVxAH4AmwAAAAJzcQB+AHZ0AAZPYmplY3RxAH4An3NxAH4AdnQAA0FueXEAfgB8cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AANlZHVzcQB+ALB0ABdlZHUuZ2F0ZWNoLmNzZTg4MDMubWFpbnNxAH4AsHQAEmVkdS5nYXRlY2guY3NlODgwM3NxAH4AsHQACmVkdS5nYXRlY2hzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVMKbXwBdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOkU6XEdpdFxiaWdkYXRhLWJvb3RjYW1wXGh3M1xjb2RlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRrQrmFflHbXC/WoIuCcEzC1sMpwQ==
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBXYoKpAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPmj3kx0AAh0ZXN0TmFtZXNxAH4ADJXnuIB0AAZub3RpZnlzcQB+AAy3AW91dAAEd2FpdHNxAH4ADE65gWd0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADIgAQet0AA0kYXNJbnN0YW5jZU9mc3EAfgAMDDIjqHQACXBhdGllbnRJRHNxAH4ADOGqOiJ0AAxwcm9kdWN0QXJpdHlzcQB+AAwZ51KbdAAGZXF1YWxzc3EAfgAMNkCuUXQADGFzSW5zdGFuY2VPZnNxAH4ADMgSh2V0AAxzeW5jaHJvbml6ZWRzcQB+AAx1XS/adAANJGlzSW5zdGFuY2VPZnNxAH4ADLRRkQ50AApNZWRpY2F0aW9uc3EAfgAMJIBg13QACGNhbkVxdWFsc3EAfgAM8Ri0XHQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMtAIx0nQADXByb2R1Y3RQcmVmaXhzcQB+AAzny1u1dAAJbm90aWZ5QWxsc3EAfgAMcE3nYHQACUxhYlJlc3VsdHNxAH4ADPT2i2R0AARjb2Rlc3EAfgAME0Ypx3QADGlzSW5zdGFuY2VPZnNxAH4ADHbJx250AAY8aW5pdD5zcQB+AAwBgGP5dAAIbWVkaWNpbmVzcQB+AAweKTvbdAAEZGF0ZXNxAH4ADOAsyfN0AAI9PXNxAH4ADMmuR1d0AAVjbG9uZXNxAH4ADB8WIx50AApEaWFnbm9zdGljc3EAfgAMEDIW9nQADmNvcHkkZGVmYXVsdCQzc3EAfgAMlQTnFHQABGNvcHlzcQB+AAyOMOGHdAAIdG9TdHJpbmdzcQB+AAyQhonAdAACIT1zcQB+AAw5mjPddAAIZ2V0Q2xhc3NzcQB+AAz6yajcdAAOY29weSRkZWZhdWx0JDFzcQB+AAwSqd0xdAACbmVzcQB+AAxsuGYudAAFdmFsdWVzcQB+AAxCq6hUdAACZXFzcQB+AAykgPoLdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMEfZD53QAAiMjc3EAfgAMM9GpcHQACGZpbmFsaXplc3EAfgAMcryLjHQADnByb2R1Y3RFbGVtZW50c3EAfgAMEvc+SnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAI2VkdS5nYXRlY2guY3NlODgwMy5tb2RlbC5EaWFnbm9zdGljdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB+eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9AHBzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCGc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKNzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAACaW9xAH4Ap3NxAH4AlnQAB1Byb2R1Y3RxAH4AnHNxAH4AlnQABkVxdWFsc3EAfgCcc3EAfgCWdAAGT2JqZWN0c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCidAAEbGFuZ3EAfgCnc3EAfgCWdAADQW55cQB+AJxzcQB+AGJxAH4Ab3VxAH4AcAAAAABzcQB+AHIAdAAiZWR1LmdhdGVjaC5jc2U4ODAzLm1vZGVsLkxhYlJlc3VsdHVxAH4AdQAAAABxAH4AeXVxAH4AewAAAABzcQB+AH0AcHNxAH4AgnEAfgCHc3EAfgB9AHBzcQB+AIJzcQB+AIpzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AlAAAAAZzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALFxAH4A03NxAH4AlnQABkVxdWFsc3EAfgDTc3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4A03NxAH4AYnEAfgBvdXEAfgBwAAAAAHNxAH4AcgB0ACNlZHUuZ2F0ZWNoLmNzZTg4MDMubW9kZWwuTWVkaWNhdGlvbnVxAH4AdQAAAABxAH4AeXVxAH4AewAAAABzcQB+AH0AcHNxAH4AgnEAfgCHc3EAfgB9AHBzcQB+AIJzcQB+AIpzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AlAAAAAZzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALFxAH4A/XNxAH4AlnQABkVxdWFsc3EAfgD9c3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4A/XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGGVkdS5nYXRlY2guY3NlODgwMy5tb2RlbHNxAH4BFHQAA2VkdXNxAH4BFHQAEmVkdS5nYXRlY2guY3NlODgwM3NxAH4BFHQACmVkdS5nYXRlY2hzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVMJ3xm7dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOkU6XEdpdFxiaWdkYXRhLWJvb3RjYW1wXGh3M1xjb2RlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRBBK3QKuzCYidvcrfrtxqAF6LbGg==
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBnkHQkAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEiNxEZ0AAZub3RpZnlzcQB+AAySFTgddAAEd2FpdHNxAH4ADLBffaF0AA1UMmRtUGhlbm90eXBlc3EAfgAMPrKBrHQADSRhc0luc3RhbmNlT2ZzcQB+AAzSwjmbdAAGZXF1YWxzc3EAfgAMKlRBl3QADGFzSW5zdGFuY2VPZnNxAH4ADKbDzn10AAxzeW5jaHJvbml6ZWRzcQB+AAxu0iN0dAANJGlzSW5zdGFuY2VPZnNxAH4ADMs5uRp0AAlub3RpZnlBbGxzcQB+AAxg1M2ndAAMaXNJbnN0YW5jZU9mc3EAfgAMohW0GXQAAj09c3EAfgAM41LnMHQABWNsb25lc3EAfgAMsdYgSHQACHRvU3RyaW5nc3EAfgAMqwfzNHQAAiE9c3EAfgAM0+ATTXQACGdldENsYXNzc3EAfgAM/INLRHQAAm5lc3EAfgAMjeYO5nQACXRyYW5zZm9ybXNxAH4ADNJoVnB0AAJlcXNxAH4ADNtrQJp0AAIjI3NxAH4ADLJ1Ymd0AAhmaW5hbGl6ZXNxAH4ADLG5+uh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACxlZHUuZ2F0ZWNoLmNzZTg4MDMucGhlbm90eXBpbmcuVDJkbVBoZW5vdHlwZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBgc3EAfgBZAXVxAH4APAAAAABwc3EAfgBZAXVxAH4APAAAAABwc3EAfgBZAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AX3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AeHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXNxAH4AbHQAA0FueXNxAH4AcHNxAH4Ac3VxAH4AdgAAAAJzcQB+AHh0AAVzY2FsYXEAfgB/cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AB5lZHUuZ2F0ZWNoLmNzZTg4MDMucGhlbm90eXBpbmdzcQB+AIl0AANlZHVzcQB+AIl0ABJlZHUuZ2F0ZWNoLmNzZTg4MDNzcQB+AIl0AAplZHUuZ2F0ZWNoc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFTCm18AXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADpFOlxHaXRcYmlnZGF0YS1ib290Y2FtcFxodzNcY29kZVx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU8tEtQJ97eqz4OZxwocP5TSZYGuQ=
+external apis:
+0 items
+source infos:
+8 items
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\Metrics.scala -> 
+AAAAAAAAAAA=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\NMF.scala -> 
+AAAAAAAAAAA=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\clustering\package.scala -> 
+AAAAAAAAAAA=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\features\FeatureConstruction.scala -> 
+AAAAAAAAAAA=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\ioutils\CSVUtils.scala -> 
+AAAAAAAAAAIAAAEAAAAMAFwgIGRlZiBsb2FkQ1NWQXNUYWJsZShzcWxDb250ZXh0OiBTUUxDb250ZXh0LCBwYXRoOiBTdHJpbmcsIHRhYmxlTmFtZTogU3RyaW5nKTogU2NoZW1hUkREID0gewEAAAEvAQAAAE8BAE8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBZRTpcR2l0XGJpZ2RhdGEtYm9vdGNhbXBcaHczXGNvZGVcc3JjXG1haW5cc2NhbGFcZWR1XGdhdGVjaFxjc2U4ODAzXGlvdXRpbHNcQ1NWVXRpbHMuc2NhbGEBAFlFOlxHaXRcYmlnZGF0YS1ib290Y2FtcFxodzNcY29kZVxzcmNcbWFpblxzY2FsYVxlZHVcZ2F0ZWNoXGNzZTg4MDNcaW91dGlsc1xDU1ZVdGlscy5zY2FsYQAydHlwZSBTY2hlbWFSREQgaW4gcGFja2FnZSBzcWwgaXMgZGVwcmVjYXRlZDogMS4zLjABAAABAAAAEgBJICBkZWYgbG9hZENTVkFzVGFibGUoc3FsQ29udGV4dDogU1FMQ29udGV4dCwgcGF0aDogU3RyaW5nKTogU2NoZW1hUkREID0gewEAAAHVAQAAADwBADwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAFlFOlxHaXRcYmlnZGF0YS1ib290Y2FtcFxodzNcY29kZVxzcmNcbWFpblxzY2FsYVxlZHVcZ2F0ZWNoXGNzZTg4MDNcaW91dGlsc1xDU1ZVdGlscy5zY2FsYQEAWUU6XEdpdFxiaWdkYXRhLWJvb3RjYW1wXGh3M1xjb2RlXHNyY1xtYWluXHNjYWxhXGVkdVxnYXRlY2hcY3NlODgwM1xpb3V0aWxzXENTVlV0aWxzLnNjYWxhADJ0eXBlIFNjaGVtYVJERCBpbiBwYWNrYWdlIHNxbCBpcyBkZXByZWNhdGVkOiAxLjMuMAE=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\main\Main.scala -> 
+AAAAAAAAAAA=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\model\models.scala -> 
+AAAAAAAAAAA=
+E:\Git\bigdata-bootcamp\hw3\code\src\main\scala\edu\gatech\cse8803\phenotyping\PheKBPhenotype.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwnfGbt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkU6XEdpdFxiaWdkYXRhLWJvb3RjYW1wXGh3M1xjb2RlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwptfAF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOkU6XEdpdFxiaWdkYXRhLWJvb3RjYW1wXGh3M1xjb2RlXHRhcmdldFxzY2FsYS0yLjEwXGNsYXNzZXN0AAEv
